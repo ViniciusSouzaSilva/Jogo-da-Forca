@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+
+.keyboard{
+    cursor: pointer;
+}
+
+#wordtxt{
+    text-align: center;
+}
